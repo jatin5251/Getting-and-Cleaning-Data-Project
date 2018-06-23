@@ -12,7 +12,7 @@ Vector of mean and sd created from column 2 of features using grep (msd) data re
 data names cleaned using gsub Subject and Activity labels added to subject_data and activity_data
 
 5. Grouping and Tidy Data
-Use of melt from reshape2 to group data and add activity labels Write tidied data to "tidied_averag_data.txt"
+Use of melt from reshape2 to group data and add activity labels Write tidied data to "tidy_data.txt"
 
 A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
